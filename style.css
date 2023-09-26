@@ -107,7 +107,8 @@ button{
 
 .name{
     position: absolute;
-    top: 15%; 
+    top: 15
+    %; 
     right: 50%;
     transform: translate(50%,-50%);
     text-transform: uppercase;
@@ -129,4 +130,12 @@ button{
     1px 22px 10px rgba(16,16,16,0.2),
     1px 25px 35px rgba(16,16,16,0.2),
     1px 30px 60px rgba(16,16,16,0.4);
+}
+
+.tataboy{
+    text-decoration: none;
+}
+
+.insta{
+    text-decoration: none;
 }
